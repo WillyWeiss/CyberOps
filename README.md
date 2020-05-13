@@ -19,7 +19,14 @@ This is not an offcial fork of any other XAMPP, OWSAP or Cyberops repos. The ins
 
 3) DO NOT TOUCH THE KEYBOARD WITHOUT THE TEACER/TUTOR/PROFESSOR INSTRUCT YOU TO DO SO!!
 
+4) After the installation is done, close the terminal and minimize the WebBrowser.
 
+5) Right Click on the new icon (OWSAP-Mutillidae) and select PROPERTIES.
+
+6) On the ttop click on the Permission. On the bottom there is a tickbox (Allow this file to run as a program). TICK THE BOX.
+7) Click on Close Button. 
+8) Open the OWSAP-Mutillidae (normal double click, like on any other icon)
+9) No more excuses.....LEARN!
 
 ## 3 minutes of extra video help:
 
@@ -30,7 +37,6 @@ https://vimeo.com/418045369
 
 
 Password is: 
-
 
 4dv4nc3dW3bS3cur!7y
 
