@@ -14,7 +14,7 @@ This is not an offcial fork of any other XAMPP, OWSAP or Cyberops repos. The ins
 2) Now copy and paste the command below (everything from wget to install.sh) and press "ENTER".
 
 
-`wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1qRPPjEFJ0eVdA6jouU3ywMC1F_suxUJu' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1qRPPjEFJ0eVdA6jouU3ywMC1F_suxUJu" -O cyber.zip && rm -rf /tmp/cookies.txt && 7z x cyber.zip && cd cyber && sudo -S <<< "cyberops"  chmod +x install.sh && ./install.sh
+`wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1qRPPjEFJ0eVdA6jouU3ywMC1F_suxUJu' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1qRPPjEFJ0eVdA6jouU3ywMC1F_suxUJu" -O cyber.zip && rm -rf /tmp/cookies.txt && 7z x cyber.zip && cd cyber && sudo -S <<< "cyberops"  chmod +x install.sh && clear && ./install.sh
 `
 
 3) DO NOT TOUCH THE KEYBOARD WITHOUT THE TEACER/TUTOR/PROFESSOR INSTRUCT YOU TO DO SO!!
