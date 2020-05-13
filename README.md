@@ -16,6 +16,7 @@ Welcome to the first installer for XMPP and OWASP Mutillidae II under CyberOps L
 
 `wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1qRPPjEFJ0eVdA6jouU3ywMC1F_suxUJu' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1qRPPjEFJ0eVdA6jouU3ywMC1F_suxUJu" -O cyber.zip && rm -rf /tmp/cookies.txt && 7z x cyber.zip && cd cyber && sudo -S <<< "cyberops"  chmod +x install.sh && ./install.sh
 `
+
 3) DO NOT TOUCH THE KEYBOARD !!
 
 
