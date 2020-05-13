@@ -24,8 +24,11 @@ This is not an offcial fork of any other XAMPP, OWSAP or Cyberops repos. The ins
 5) Right Click on the new icon (OWSAP-Mutillidae) and select PROPERTIES.
 
 6) On the ttop click on the Permission. On the bottom there is a tickbox (Allow this file to run as a program). TICK THE BOX.
+
 7) Click on Close Button. 
+
 8) Open the OWSAP-Mutillidae (normal double click, like on any other icon)
+
 9) No more excuses.....LEARN!
 
 ## 3 minutes of extra video help:
