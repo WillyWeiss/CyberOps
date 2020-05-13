@@ -19,10 +19,19 @@ This is not an offcial fork of any other XAMPP, OWSAP or Cyberops repos. The ins
 
 3) DO NOT TOUCH THE KEYBOARD WITHOUT THE TEACER/TUTOR/PROFESSOR INSTRUCT YOU TO DO SO!!
 
-##Extra 3 minutes of VIDEO help:
+
+
+## 3 minutes of extra video help:
+
 Video Link is:
+
+
 https://vimeo.com/418045369
+
+
 Password is: 
+
+
 4dv4nc3dW3bS3cur!7y
 
 ## Message for tutors and teachers:
