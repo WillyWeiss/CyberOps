@@ -31,7 +31,7 @@ This is not an offcial fork of any other XAMPP, OWSAP or Cyberops repos. The ins
 
 9) No more excuses.....LEARN!
 
-## 3 minutes of extra video help:
+## 7 minutes of extra tutorial help:
 
 Video Link is:
 
