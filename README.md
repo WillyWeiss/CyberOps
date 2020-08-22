@@ -11,7 +11,7 @@ Welcome to the first installer for XMPP version 7.4.5 and OWASP Mutillidae II ve
 
 This is not an offcial fork of any other XAMPP, OWSAP or Cyberops repos and it was created for educational purpuses. 
 
-This repo is aimed to help University students on theyr Web Security Assignments. Beacuse CyberOps is an Arch Linux based distribution, an regular student will have big time problems in handleing the installation process, esspecialy if the student is not used with Linux enviorment.
+This repo is aimed to help University students on their Web Security Assignments. Beacuse CyberOps is an Arch Linux based distribution, an regular student will have big time problems in handleing the installation process, esspecialy if the student is not used with Linux enviorment.
 Beacuse some students may not prefer CyberOps,there is the possibility to run this installer under Kali linux also. Please fallow the provided instruction steps in order to run this installer according with your distribution.
 
 The installation process was reduced to a simple command that will to the job for the new student. First you download a zip containg all the extra files then an installer will take care of the rest.
