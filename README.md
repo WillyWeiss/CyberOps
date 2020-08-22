@@ -1,6 +1,5 @@
 
-
-![](https://banner2.cleanpng.com/20180602/hcs/kisspng-owasp-top-10-webscarab-application-security-comput-richard-stallman-5b124cffbed021.8893118415279260157816.jpg)
+![](https://secure.meetupstatic.com/photos/event/3/9/7/8/600_163394712.jpeg)
 
 
 # 
@@ -19,22 +18,30 @@ The installation process was reduced to a simple command that will to the job fo
 Please fallow the next stepts in the exact order:
 1) Open a terminal
 2) Copy the code below (everything from wget to cyber) and paste it in the terminal. Then press "ENTER":
+
+
 `wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1sFEeyVAPWV0b-RBrrerZvI33JUuZYpjz' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1sFEeyVAPWV0b-RBrrerZvI33JUuZYpjz" -O cyber.zip && rm -rf /tmp/cookies.txt && 7z x cyber.zip && cd cyber
 `
 
 3) Now you will need to run the specific file, according with your distribution:
     a) If you run Cyberops, run the commands below in order to run the installer:
+    
         ```
         sudo -S <<< "cyberops" chmod +x cyber.sh
         ./cyber.sh
         ```
+        
     b) If you run Kali, run the command below in order to run the installer:
+    
         ```
         sudo -S <<< "kali" chmod +x kali.sh
         ./kali.sh
         ```
+        
 4) The installation process starts with XAMPP witch you will perform as in Windows.
+
 IMPORTAN~~DO NOT LAUNCH THE XAMPP AFTER INSTALLATION.
+
 
 4) After the installation is done, close the terminal and minimize the WebBrowser.
 
