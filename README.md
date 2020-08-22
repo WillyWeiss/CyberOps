@@ -16,7 +16,9 @@ Beacuse some students may not prefer CyberOps,there is the possibility to run th
 The installation process was reduced to a simple command that will to the job for the new student. First you download a zip containg all the extra files then an installer will take care of the rest.
 ## Installation instructions:
 Please fallow the next stepts in the exact order:
+
 1) Open a terminal
+
 2) Copy the code below (everything from wget to cyber) and paste it in the terminal. Then press "ENTER":
 
 
